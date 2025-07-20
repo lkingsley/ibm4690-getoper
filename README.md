@@ -1,7 +1,7 @@
 ## Getoper
 IBM 4680/4690 command line application to retrieve operators information.
 
-Compile the application with the IBM 4680/4690 Basic Compiler and linker with the LINK86 Linkage Editor.
+Compile the application with the IBM 4680/4690 Basic Compiler and link with the linker LINK86 Linkage Editor.
 
 Run the app inserting the operator id as an argument.
 e.g:
